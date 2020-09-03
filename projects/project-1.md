@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/soest_logo.jpg
+image: images/MESH_logo.JPG
 title: MESH Lab
 permalink: projects/MESHLab
 # All dates must be YYYY-MM-DD format!
