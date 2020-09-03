@@ -11,15 +11,13 @@ labels:
   - Arduino
   - C
   - Circuit Design
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: MATE is an underwater ROV competition I participated in from grade 7 to 12.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/ROV_front.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I was in charge of the software implemented on several underwater remotely operated vehicles(ROVs) used in the Marine Advanced Technology Education([MATE](https://materovcompetition.org/)) competition. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+MATE tasks teams of students to construct an ROV capable of completing several simulated missions such as repairing an underwater pipeline, debris retrieval, and taking measurements in water just above freezing temperature. As Lead Software Engineer I wrote C code that managed propulsion, sensor data collection, and data transmission through a serial communication protocol. I was also responsible for building the on-board circuitry located in the ROV's pressurized housing.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href=https://files.materovcompetition.org/TechReportArchives/2017/HighlandsInterandPCHS_KaimanaEnter_TechReport_2017.pdf><i class="MATE_logo"></i>MATE ROV</a>
