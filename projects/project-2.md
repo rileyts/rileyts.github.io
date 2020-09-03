@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MATE_logo.jpg
+image: images/MATE_logo.png
 title: MATE Underwater Robotics
 permalink: projects/MATE
 # All dates must be YYYY-MM-DD format!
