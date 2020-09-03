@@ -16,7 +16,7 @@ summary: A robotics competition where teams construct autonomous robots programm
 Micromouse is a robotics competition where teams of students spend several months designing, constructing and testing an autonomous vehicle using a five hundred dollar budget. On the day of the competition the robot had to be able to navigate a maze and locate the center as quickly as possible. As Lead Electrical Engineer of the team, I oversaw the production of the electronics system. 
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/MMPDBbrd.JPG">
+  <img class="ui image" src="../images/MMPCBbrd.JPG">
   <img class="ui image" src="../images/MMPCBsch.JPG">
   <img class="ui image" src="../images/MMRobot.jpg">
 </div>
