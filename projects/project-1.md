@@ -14,7 +14,7 @@ summary: MESH Lab develops cost efficient marine sensors for enviormental resear
 ---
 I am responsible for the fabrication of cost effective electronic sensor systems that are utilized to study different marine environments with a focus on Ala Wai Canal and coral reefs. These devices gather temperature, pressure, and light color data which is transmitted through IR communication. To ensure the sensors are safe to deploy they are enclosed within pressurized containers rated for depths up to 300 ft. 
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/Kiwibreakout.jpg">
   <img class="ui image" src="../images/Kiwiloggers.jpg">
   <img class="ui image" src="../images/Kiwidongle.jpg">
