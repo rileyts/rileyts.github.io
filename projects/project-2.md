@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/ROV_side.jpg
+title: MATE Underwater Robotics
+permalink: projects/MATE
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-06-27
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Robotics
+  - Arduino
+  - C
+  - Circuit Design
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
