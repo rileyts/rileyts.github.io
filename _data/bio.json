@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Web Development",
       "keywords": [
       ]
     }
@@ -51,101 +51,82 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows10",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Arduino"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.47",
+      "courses": ["Object Oriented Programming", "Computer Architecture", "Circuit Analysis", "Electromagnetics" 
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "School of Ocean and Earth Science and Technology",
+      "position": "Technical Outreach and Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-02-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Responsible for the fabrication of cost effective electronic sensor systems that are utilized to study different marine environments with a focus on Ala Wai Canal and coral reefs.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Ensure the sensors are safe to deploy they are enclosed within pressurized containers rated for depths up to 300 ft",
+        "Diagnose, test and repair devices that were damaged during deployment"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Highlands Intermediate School",
+      "website": "",
+      "position": "STEM Club coach",
+      "startDate": "2013-09-01",
+      "endDate": "2019-05-30",
+      "summary": "Taught members of Highland Intermediate School's science club a variety of skills ranging from soldering to public speaking",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Mentored a robotics team representing Hawaii at an international tournament"
       ]
     },
     {
-      "organization": "",
+      "organization": "Robofest",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Competition Judge",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Official competetition judge for Robfest for two years",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "First place",
+      "date": "2019",
+      "awarder": "UH Manoa Micromouse Competition",
+      "summary": "My team won first place at UH Manoa's intraschool Micromouse tournament.  See my projects page for more details."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second place",
+      "date": "2017",
+      "awarder": "MATE International Competition",
+      "summary": "My team was awarded second place overall in 2017.  See my projects page for more details."
     }
   ],
   "references": [
