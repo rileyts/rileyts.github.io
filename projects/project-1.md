@@ -16,8 +16,8 @@ I am responsible for the fabrication of cost effective electronic sensor systems
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Kiwibreakout.jpg">
-  <img class="ui image" src="../images/Kiwilogger.jpg">
-  <img class="ui image" src="../images/KiwiDongle.jpg">
+  <img class="ui image" src="../images/Kiwiloggers.jpg">
+  <img class="ui image" src="../images/Kiwidongle.jpg">
 </div>
 
 A portion of the sensors built in the lab are distributed to local schools who integrate them into their various STEM curriculum. As an engineering assistant, I need be diligent with a high attention to detail and capable of troubleshooting a variety of issues relating to hardware and software. The devices I build change regularly, so I also need to be able to learn and adapt quickly.
