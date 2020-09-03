@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Sensor
   - Research
-summary: MESH Lab develops cost efficient mariene sensors for enviormental research and as a way to expose the community to STEM.
+summary: MESH Lab develops cost efficient marine sensors for enviormental research and as a way to expose the community to STEM.
 ---
 I am responsible for the fabrication of cost effective electronic sensor systems that are utilized to study different marine environments with a focus on Ala Wai Canal and coral reefs. These devices gather temperature, pressure, and light color data which is transmitted through IR communication. To ensure the sensors are safe to deploy they are enclosed within pressurized containers rated for depths up to 300 ft. 
 
