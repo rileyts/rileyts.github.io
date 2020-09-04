@@ -20,7 +20,7 @@ I was in charge of the software implemented on several underwater remotely opera
 
 MATE tasks teams of students to construct an ROV capable of completing several simulated missions based on real world events. Sompetitions have been modeled after the oil spill in the Gulf of Mexico, retrieving biological samples from one of the great lakes, and an unmaned mission to Europa, one of Jupiter's moons. An example of one of these simulated missions can be seen in the photo bellow. In this graphic, an ROV can be seen collecting simulated coral samples made out of PVC.
 
-<img class="ui medium rounded image" src="../images/mate_mission.jpg">
+<img class="ui medium right rounded image" src="../images/mate_mission.jpg">
 
 As Lead Software Engineer I wrote C code that managed propulsion, sensor data collection, and data transmission through a serial communication protocol. I was also responsible for building the on-board circuitry located in the ROV's pressurized housing. A logitech joystick along with four BlueRobotics motors positioned to achieve vector thrust were used as the ROV's drive system.
 
