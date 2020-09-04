@@ -24,7 +24,7 @@ MATE tasks teams of students to construct an ROV capable of completing several s
 
 As Lead Software Engineer I wrote C code that managed propulsion, sensor data collection, and data transmission through a serial communication protocol. I was also responsible for building the on-board circuitry located in the ROV's pressurized housing. A logitech joystick along with four BlueRobotics motors positioned to achieve vector thrust were used as the ROV's drive system.
 
-<img class="ui right floated rounded image" src="../images/mate_house.jfif">
+<img class="ui rounded image" src="../images/mate_house.jfif">
 
 In 2017, my team and I placed 1st in the robot performence catagory 2nd overall at the international competition.
  
