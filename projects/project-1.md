@@ -22,6 +22,7 @@ I am responsible for the fabrication of cost effective electronic sensor systems
 
 A portion of the sensors built in the lab are distributed to local schools who integrate them into their various STEM curriculum. As an engineering assistant, I need be diligent with a high attention to detail and capable of troubleshooting a variety of issues relating to hardware and software. The devices I build change regularly, so I also need to be able to learn and adapt quickly.
 
+One of the most commonly built sensors at the lab are Kiwi Loggers. The components of the Kiwis can be seen in the photos above. Small round printed circuit boards(PCBs) called Breakout Boards (top left photo) contain pressure, temperature, light and color sensors which interface with a Logger (bottom left photo). The Logger recieves and stores data taked from these sensors. Once the Kiwis have been packaged within there pressurized containers the only way to retrive this data is through IR communication. The lab produces an IR Donle (top right photo) that allows connection to a computer through USB. 
 You can learn more at the [Lab's website](https://www.soest.hawaii.edu/oceanography/glazer/Brian_T._Glazer/Research.html).
 
 
