@@ -29,4 +29,4 @@ After the robot's electronics were completed I assistad my teammate in creating 
 
 My team and I competed at UH Manoa's intraschool tournament as part of our sophmore project where we placed 1st.
 
-For more information about Micromouse vist this [websie](http://www.micromouseonline.com/).
+For more information about Micromouse vist this [website](http://www.micromouseonline.com/).
