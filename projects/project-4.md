@@ -14,20 +14,11 @@ labels:
 summary: A web application that acts as a central information hub for all things food on the UH Manoa Campus.
 ---
 
-Micromouse is a robotics competition where teams of students spend several months designing, constructing and testing an autonomous vehicle using a five hundred dollar budget. On the day of the competition the robot had to be able to navigate a maze and locate the center as quickly as possible. As Lead Electrical Engineer of the team, I oversaw the production of the electronics system. Our robot used two DC motors for its drive and IR sensors to detect proximity to maze walls. The chassis was designe to be as compact as possible. The electronics were also broken up onto two different circuit boards to help further size reduction.
+Since University of Hawaii at Manoa’s campus has a variety of food vendors, it can be difficult for students and staff to keep up with what’s available. Many of the locations on campus have different choices, depending what they decide to offer on any given day. There is no easy and concise way to track all of these options and their daily menus: Paradise Palms, campus center, food trucks, etc.
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/MMRobot.jpg">
-  <img class="ui image" src="../images/MMPCBbrd.JPG">
-</div>
-<div class="ui large rounded images">
-  <img class="ui image" src="../images/MMPCBsch.JPG">
-</div>
+The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be available. Students will be able to view the food available in the moment as well as browse the top picks of the day.
 
-This meant I was responsible for designing a circuit board capable of interfacing with a micro-controller, several sensors and the robot's drive system. In addition I had to find an appropriate power source for the entire system. Given my leadership position, I also had to communicate the progress and setbacks of my portion of the project, as well as accommodate for the progress and setbacks of others. 
+This website was deployed on Digital Ocean and was programmed in Javascript, React for front end development, and Meteor as a web framework. Campus Cravings was a team based project that implemented Agile Project Management techniques, specifically Issue driven project management (IDPM), to accomplish tasks and meet deadlines.
 
-After the robot's electronics were completed I assistad my teammate in creating the maze solving algorithm. While developing the code we were constantly testing the robots performence both in and out of the maze. This resulted in us discovering problems with the hardware and electrical system. I was in charge of troublshooting in these areas and makeing any necessary repairs.
+To learn more about this project, visit [campus-cravings.github.io.](https://campus-cravings.github.io/)
 
-My team and I competed at UH Manoa's intraschool tournament as part of our sophmore project where we placed 1st.
-
-For more information about Micromouse vist this [website](http://www.micromouseonline.com/).
