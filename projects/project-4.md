@@ -18,11 +18,11 @@ Since University of Hawaii at Manoa’s campus has a variety of food vendors, it
 
 The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be available. Students will be able to view the food available in the moment as well as browse the top picks of the day.
 
-<div class="ui medium rounded images">
+<div class="ui huge rounded images">
   <img class="ui image" src="../images/cc-list.PNG">
   <img class="ui image" src="../images/cc-featured.PNG">
 </div>
-<div class="ui large rounded images">
+<div class="ui huge rounded images">
   <img class="ui image" src="../images/cc-favorites.PNG">
 </div>
 
