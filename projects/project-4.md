@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project_cc.png
+image: images/projects_cc.png
 title: Campus Cravings 
 permalink: projects/campuscravings
 # All dates must be YYYY-MM-DD format!
